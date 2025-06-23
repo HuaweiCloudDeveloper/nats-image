@@ -2,7 +2,7 @@
 
 # 商品链接
 
-[NATS-云原生消息系统]()
+[NATS-云原生消息系统](https://marketplace.huaweicloud.com/hidden/contents/f458f8c6-818f-4b3e-8e10-992f49e09f1e#productid=OFFI1141938411671859200)
 
 # 商品说明
 

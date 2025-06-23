@@ -2,7 +2,7 @@
 
 ## 规格说明
 
-- 镜像商品：[NATS-云原生消息系统]()
+- 镜像商品：[NATS-云原生消息系统](https://marketplace.huaweicloud.com/hidden/contents/f458f8c6-818f-4b3e-8e10-992f49e09f1e#productid=OFFI1141938411671859200)
 - 镜像规格：NATS2.10.20-arm-v1.0
 - 预置环境：NATS2.10.20
 - 适配项：[ECS](https://support.huaweicloud.com/ecs/index.html)
