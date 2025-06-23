@@ -28,7 +28,7 @@
 9. Simple and flexible subject routing: wildcard subjects (* matches single level, > matches multiple levels) for flexible message routing, no need to pre-configure exchanges or queues.
 10. Real-time monitoring and management: built-in nats-server --monitoring provides Prometheus metrics endpoints, supports visual monitoring (e.g., NATS Surveyor tool).
 
-This project offers pre-configured [**`NATS-Cloud-native messaging system`**]()，images with NATS and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**`NATS-Cloud-native messaging system`**](https://marketplace.huaweicloud.com/intl/hidden/contents/8665eb08-8c32-46fa-94ae-eaf4d3c1533c)，images with NATS and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 **Architecture Design:**
 
@@ -46,7 +46,7 @@ This project offers pre-configured [**`NATS-Cloud-native messaging system`**]()�
 
 | Image Version          | Description | Notes |
 |------------------------| --- | --- |
-| [NATS2.10.20-arm-v1.0]() | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  |
+| [NATS2.10.20-arm-v1.0](https://github.com/HuaweiCloudDeveloper/nats-image/tree/NATS2.10.20-arm-v1.0?tab=readme-ov-file) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  |
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/nats-image/issues)

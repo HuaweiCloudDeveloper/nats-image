@@ -28,7 +28,7 @@
 9. 简单灵活的主题路由：通配符主题（*匹配单级，>匹配多级）实现灵活消息路由，无需预配置交换器或队列。
 10. 实时监控与管理：内置nats-server --monitoring提供Prometheus指标端点，支持可视化监控（如NATS Surveyor工具）。
 
-本项目提供的开源镜像商品 [**`NATS-云原生消息系统`**]()，已预先安装 NATS 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**`NATS-云原生消息系统`**](https://marketplace.huaweicloud.com/hidden/contents/f458f8c6-818f-4b3e-8e10-992f49e09f1e#productid=OFFI1141938411671859200)，已预先安装 NATS 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 **架构设计：**
 
@@ -46,7 +46,7 @@
 
 | 镜像规格                     | 特性说明 | 备注 |
 |--------------------------| --- | --- |
-| [NATS2.10.20-arm-v1.0]() | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [NATS2.10.20-arm-v1.0](https://github.com/HuaweiCloudDeveloper/nats-image/tree/NATS2.10.20-arm-v1.0?tab=readme-ov-file) | 基于鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/nats-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
